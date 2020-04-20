@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14614" started-at="2020-04-18T18:07:31Z" finished-at="2020-04-18T18:07:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14614" started-at="2020-04-18T18:07:31Z" finished-at="2020-04-18T18:07:46Z">
+      <class name="demosite.qa.Testcases.UserPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:demosite.qa.Testcases.UserPageTest@66a3ffec]" name="setUp" is-config="true" duration-ms="12104" started-at="2020-04-18T18:07:31Z" finished-at="2020-04-18T18:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickaddusr()[pri:1, instance:demosite.qa.Testcases.UserPageTest@66a3ffec]" name="clickaddusr" duration-ms="575" started-at="2020-04-18T18:07:44Z" finished-at="2020-04-18T18:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickaddusr -->
+        <test-method status="PASS" signature="validData()[pri:2, instance:demosite.qa.Testcases.UserPageTest@66a3ffec]" name="validData" duration-ms="1144" started-at="2020-04-18T18:07:44Z" finished-at="2020-04-18T18:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demosite.qa.Testcases.UserPageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="746" started-at="2020-04-18T18:07:45Z" finished-at="2020-04-18T18:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demosite.qa.Testcases.UserPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
